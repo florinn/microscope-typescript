@@ -1,0 +1,1 @@
+This is [**Microscope**](https://github.com/DiscoverMeteor/Microscope) (the sample application built in the [**Discover Meteor**](https://www.discovermeteor.com/) book) converted to TypeScript and using WebStorm transpiling to JavaScript.

@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/lib/collections/notifications.js" />
+        <item url="file://$PROJECT_DIR$/_all.js" />
+        <item url="file://$PROJECT_DIR$/client/helpers/handlebars.js" />
+        <item url="file://$PROJECT_DIR$/lib/collections/posts.js" />
+        <item url="file://$PROJECT_DIR$/client/helpers/errors.js" />
+        <item url="file://$PROJECT_DIR$/server/fixtures.js" />
+        <item url="file://$PROJECT_DIR$/lib/permissions.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/comments/comment_submit.js" />
+        <item url="file://$PROJECT_DIR$/lib/router.js" />
+        <item url="file://$PROJECT_DIR$/server/publications.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/comments/comment_item.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/posts/post_submit.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/posts/posts_list.js" />
+        <item url="file://$PROJECT_DIR$/client/main.js" />
+        <item url="file://$PROJECT_DIR$/lib/collections/comments.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/posts/post_edit.js" />
+        <item url="file://$PROJECT_DIR$/client/helpers/config.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/posts/post_item.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/posts/post_page.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/includes/errors.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/includes/header.js" />
+        <item url="file://$PROJECT_DIR$/client/templates/notifications/notifications.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/collections/notifications.js" />
+      <root url="file://$PROJECT_DIR$/client/helpers/handlebars.js" />
+      <root url="file://$PROJECT_DIR$/_all.js" />
+      <root url="file://$PROJECT_DIR$/lib/collections/posts.js" />
+      <root url="file://$PROJECT_DIR$/client/helpers/errors.js" />
+      <root url="file://$PROJECT_DIR$/lib/permissions.js" />
+      <root url="file://$PROJECT_DIR$/server/fixtures.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/comments/comment_submit.js" />
+      <root url="file://$PROJECT_DIR$/server/publications.js" />
+      <root url="file://$PROJECT_DIR$/lib/router.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/comments/comment_item.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/posts/post_submit.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/posts/posts_list.js" />
+      <root url="file://$PROJECT_DIR$/client/main.js" />
+      <root url="file://$PROJECT_DIR$/lib/collections/comments.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/posts/post_edit.js" />
+      <root url="file://$PROJECT_DIR$/client/helpers/config.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/posts/post_item.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/posts/post_page.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/includes/errors.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/includes/header.js" />
+      <root url="file://$PROJECT_DIR$/client/templates/notifications/notifications.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
